@@ -1,5 +1,17 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
+body{
+    background-color: #000;
+}
+
+h1, label{
+    color: #fff;
+}
+
+hr{
+    color: #fff;
+}
+
 .header {
     background-color: #3b2712;
 }
